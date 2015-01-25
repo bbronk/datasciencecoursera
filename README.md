@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera class project repo
+Coursera class project repository readme file
