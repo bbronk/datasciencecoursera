@@ -1,3 +1,3 @@
 # datasciencecoursera
-Coursera class project repository readme file
+Coursera class project repository readme file.  
 Greetings classmates/graders!
